@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: rgb(157, 231, 231);
+}
+p{
+    color: #000;
+    font-size: 30px;
+    text-align: center;
+    padding: 80px;
+}
+.head{   
+    text-align: center;
+    color: #000;
+}
